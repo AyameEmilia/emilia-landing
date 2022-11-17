@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,800;0,900;1,200;1,400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+.glow-pink-400:hover {
+    box-shadow: 0px 0px 34px -1px #fcb4fea8;
+}
+
+.polka {
+    background-image:
+        radial-gradient(rgba(255, 255, 255, 0.027) 10%, transparent 10%);
+    background-position: 0px 0px, 12px 12px;
+    background-size: 24px 24px;
+    background-color: rgba(0, 0, 0, 0.979);
+}
