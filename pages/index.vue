@@ -1,6 +1,6 @@
 <template>
   <div class="font-Prompt bg-black">
-    <div class="bg-cover bg-center w-full h-screen" style="background-image: url(assets/img/bg-home.png)">
+    <div class="bg-cover bg-center w-full h-screen" style="background-image: url(https://media.discordapp.net/attachments/803211285797535755/1049708018322898954/bg-home.png)">
       <div class="w-full h-screen bg-gradient-to-l from-transparent to-black">
 
         <div class="container mx-auto">
@@ -20,7 +20,7 @@
       </div>
     </div>
     <div id="profile" class="bg-cover w-full min-h-screen"
-      style="z-index: 1; box-shadow: 0px -23px 36px 16px rgba(0,0,0,0.68); position: relative; background-image: url(assets/img/wallpaper.png)">
+      style="z-index: 1; box-shadow: 0px -23px 36px 16px rgba(0,0,0,0.68); position: relative; background-image: url(https://media.discordapp.net/attachments/803211285797535755/1049708018322898954/bg-home.png)">
       <div style="position: absolute; right: 0" class="mt-4 z-10">
         <div class="rounded-l-full bg-pink-400 py-2 px-5 text-white">
           <div class="grid grid-cols-4 gap-4">
@@ -47,7 +47,7 @@
           <div class="hero min-h-screen w-full">
 
             <div class="hero-content flex-col lg:flex-row mt-14">
-              <img src="assets/img/profile.png" class="max-w-sm rounded-lg shadow-2xl pr-1" />
+              <img src="https://media.discordapp.net/attachments/803211285797535755/1049708135952167022/profile.png" class="max-w-sm rounded-lg shadow-2xl pr-1" />
               <div>
                 <h1
                   class="text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-l from-pink-200 via-pink-400 to-pink-700">
@@ -81,19 +81,19 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 mt-2 p-4">
           <div class="relative overflow-hidden group transition hover:scale-105 duration-300">
             <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
-            <a href="https://devilnoob.com/" target="_blank"><img src="assets/img/p_1.png" class="rounded"></a>
+            <a href="https://devilnoob.com/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708059418697758/p_1.png" class="rounded"></a>
           </div>
           <div class="relative overflow-hidden group transition hover:scale-105 duration-300">
               <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
-              <a href="https://shopgame-th.com/" target="_blank"><img src="assets/img/p_2.png" class="rounded"></a>
+              <a href="https://shopgame-th.com/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708066569982042/p_2.png" class="rounded"></a>
           </div>
           <div class="relative overflow-hidden group transition hover:scale-105 duration-300">
               <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
-              <a href="http://porthemaster.com/" target="_blank"><img src="assets/img/p_3.png" class="rounded"></a>
+              <a href="http://porthemaster.com/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708078876086352/p_3.png" class="rounded"></a>
           </div>
           <div class="relative overflow-hidden group transition hover:scale-105 duration-300">
               <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
-              <a href="https://papatopup.com/" target="_blank"><img src="assets/img/p_4.png" class="rounded"></a>
+              <a href="https://papatopup.com/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708093124120597/p_4.png" class="rounded"></a>
           </div>
         </div>
         </div>
@@ -107,9 +107,13 @@
           </h1>
         <p class="p-0 -mt-1 text-white opacity-50">ผลงานส่วนตัว</p>
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-3 mt-2 p-4">
-          <div class="relative overflow-hidden group transition hover:scale-105 duration-300">
+          <div class="relative overflow-hidden group transition duration-300">
             <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
-            <a href="https://waifu.ellafern.net/" target="_blank"><img src="assets/img/p_5.png" class="rounded"></a>
+            <a href="https://waifu.ellafern.net/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708098668998656/p_5.png" class="rounded"></a>
+          </div>
+          <div class="relative overflow-hidden group transition duration-300">
+            <div class="bg-white/30 absolute h-11 w-full -rotate-45 -left-80 group-hover:left-80 transition-all duration-1000 opacity-0 bottom-[80%] group-hover:bottom-0 group-hover:opacity-100"></div>
+            <a href="https://world.ellafern.net/" target="_blank"><img src="https://media.discordapp.net/attachments/803211285797535755/1049708103249170462/p_6.png" class="rounded"></a>
           </div>
         </div>
         </div>
